@@ -1,0 +1,5 @@
+   - 👋 oi, eu sou  @pablohenriquedevs
+- 👀 estou interessado em: me atualizar cada vez mais em novas tecnologias 
+- 🌱 nesse momento estou aprendendo HTML e CSS 
+- 💞️ eu quero ajudar em projetos de desenvolvimento para melhor desempenho de aplicativos
+- 📫 você pode entrar em contato comigo pelo GithHub e pelo meu email phrdpablohenriquerochadias
